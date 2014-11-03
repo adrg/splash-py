@@ -2,7 +2,7 @@
 from splash.property import Style
 from splash.property import Property
 
-__author__ = 'Adrian-George Bostan <adi@fractor.ro>'
+__author__ = 'Adrian-George Bostan'
 __email__ = 'adi@fractor.ro'
 
 __version__ = '1.0.0'
